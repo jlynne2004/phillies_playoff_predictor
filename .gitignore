@@ -1,0 +1,16 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore virtual environment folders (if you set one up later)
+venv/
+.env/
+
+# Ignore data files (optional: if you don't want to upload CSVs or large datasets)
+data/
+
+# Ignore Mac system files (if you ever switch computers)
+.DS_Store
+
+# Ignore VS Code workspace settings (optional)
+.vscode/
